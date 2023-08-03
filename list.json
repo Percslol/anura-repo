@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "Element",
+            "icon": "icons/element.png",
+            "desc": "A simple matrix client ported to anuraOS",
+            "data": "apps/element.app.zip"
+        }
+    ]
+}
