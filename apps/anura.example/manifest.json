@@ -12,7 +12,7 @@
       {
         "path": "screenshots/something2.png",
         "desc": "(screenshot desc)" 
-      },
+      }
     ],
     "version": "1.0.0",
     "dependencies": ["(package identifier)"]
