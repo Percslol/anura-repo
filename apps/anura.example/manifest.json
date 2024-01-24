@@ -1,0 +1,19 @@
+{
+    "name": "Example app",
+    "icon": "element.png",
+    "summary": "(tiny app description)",
+    "desc": "(longer app description)",
+    "package": "percs.element",
+    "screenshots": [
+      {
+        "path": "screenshots/something.png",
+        "desc": "(screenshot desc)" 
+      },
+      {
+        "path": "screenshots/something2.png",
+        "desc": "(screenshot desc)" 
+      },
+    ],
+    "version": "1.0.0",
+    "dependencies": ["(package identifier)"]
+}

@@ -1,17 +1,8 @@
 {
     "apps": [
-        {
-            "name": "Element",
-            "icon": "icons/element.png",
-            "desc": "A simple matrix client ported to anuraOS",
-            "data": "apps/element.app.zip"
-        },
-        {
-            "name": "Flash Plugin",
-            "icon": "icons/flash.svg",
-            "desc": "A plugin to run SWF Files",
-            "data": "apps/flash.app.zip",
-            "category": "plugin"
-        }
-    ]
+       "anura.example"
+     ],
+    "libs": [
+       "anura.examplelib"
+     ]
 }
