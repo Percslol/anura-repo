@@ -3,6 +3,6 @@
        "anura.example"
      ],
     "libs": [
-       "anura.examplelib"
+       "anura.flash"
      ]
 }
