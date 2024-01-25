@@ -15,6 +15,5 @@
         "desc": "(screenshot desc)" 
       }
     ],
-    "version": "1.0.0",
-    "dependencies": ["(package identifier)"]
+    "version": "1.0.0"
 }
