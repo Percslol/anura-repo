@@ -3,5 +3,6 @@
 		"email": "me@percs.dev",
 		"website": "https://percs.dev",
         "name": "Percs"
-	}
+	},
+    "version": "2.0.0"
 }
