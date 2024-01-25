@@ -4,6 +4,7 @@
     "summary": "(tiny app description)",
     "desc": "(longer app description)",
     "package": "lol.flash",
+    "data": "lib.zip",
     "screenshots": [
       {
         "path": "screenshots/something.png",

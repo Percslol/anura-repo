@@ -4,6 +4,8 @@
     "summary": "(tiny app description)",
     "desc": "(longer app description)",
     "package": "percs.element",
+    "data": "app.zip",
+    "installHook": "install.js",
     "screenshots": [
       {
         "path": "screenshots/something.png",
